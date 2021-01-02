@@ -1,0 +1,67 @@
+
+1.Expanse
+      Advance.xlsx
+      Expanse.xlsx
+      
+   Receipts
+       Receipts
+
+       Template
+               Voucher_Receipt_Template.xlsx
+               
+2.Invoices
+       Invoices.xlsx
+       
+3.Magazine_Subscription
+      Subscription.xlsx
+      
+   Receipt
+       Receipts
+              
+       Template
+               Subscription_Receipt_Template.xlsx
+               
+4.Seva_Rashi
+   Donation
+       
+      Sorted_List
+   Receipts
+      Receipts
+
+             
+      Template
+              Donation_NonMonetary_Receipt_Template.xlsx
+              Donation_Receipt_Booklet.xlsx
+              Donation_Receipt_Template.xlsx
+              
+   Statements
+   Template
+           account_statement_template.xlsx
+           
+5.Statements
+       
+6.Transaction
+       Balance.txt
+       Split_Transaction.xlsx
+       Transaction.xlsx
+       
+    Account_Statement
+       Statements
+             
+       Template
+               Split_Donation_Open.xlsx
+               Transaction_template.xlsxs
+               Transaction_template_backup.xlsx
+               
+    Sorted_List
+           Transaction.xlsx
+           
+    StockSell
+          
+        Sorted
+              
+        Statements
+               
+        Template
+                stock_sales_account_template.xlsx
+                
